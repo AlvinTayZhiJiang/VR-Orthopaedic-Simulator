@@ -8,7 +8,7 @@ We explored the prototyping of:
 4. Animation creation for virtual characters from motion capture using Vicon Motion Capture (MX) System
 
 ### Files in the respository
-1. **Design Templates/ Design Template A, B, C.pdf:**: Design thinking workflows and templates submitted
+1. **Design Templates/ Design Template A, B, C.pdf:** Design thinking workflows and templates submitted
 2. **VR Orthopedic_Interim_Report.pdf:** Interim report
 3. **Patient_Mark.stl**: Modelling of facial expressions using Blender to test out the use of facial expressions in VR to enhance realism
 
