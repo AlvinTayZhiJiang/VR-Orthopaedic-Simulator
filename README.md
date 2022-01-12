@@ -1,4 +1,4 @@
-# Virtual Reality Orthopaedic Simulator (Ongoing)
+# Virtual Reality Orthopaedic Simulator (Completed)
 As part of a module in my second major in innovation and design (iDP), my team and I are working towards the development of a Virtual Reality (VR) Orthopaedic Simulator, using Unity and Occulus Quest, to help Orthopaedic residents gain more experience and familiarity in clinical procedures, as well as receive real-time feedback from their consultants.
 
 We explored the prototyping of:
